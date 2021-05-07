@@ -11,7 +11,7 @@
   "dependencies": {
     "basil.js": "^0.4.3",
     "body-parser": "^1.14.2",
-    "brfs": "^1.4.3",
+    "brfs": "^1.6.1",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "grunt": "^0.4.5",
