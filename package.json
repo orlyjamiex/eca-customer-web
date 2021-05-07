@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "basil.js": "^0.4.3",
+    "basil.js": "^0.4.11",
     "body-parser": "^1.14.2",
     "brfs": "^1.4.3",
     "ejs": "^2.4.1",
